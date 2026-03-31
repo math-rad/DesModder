@@ -380,3 +380,15 @@ quake-pro-opt-dollyMagnification-name = Dolly Multiplier
 quake-pro-opt-dollyMagnification-desc = Heightens the zoom behavior by multiplying (dollying) the camera's viewport slider.
 quake-pro-opt-scalarZoomed-name = Scalar Cancellation
 quake-pro-opt-scalarZoomed-desc = Combats perspective distortion by multiplying (enlarging) the screen viewport (requires max zoom to be fully seen).
+
+### Git Integration
+git-integration-name = Git Integration
+git-integration-desc = Connect your Desmos graphs to any internet facing (HTTPS only) git repository via isomorphic-git
+git-integration-opt-origin-name = Origin
+git-integration-opt-origin-desc = (https only) the URL of git repository with which you seek to synchronize
+git-integration-opt-httpsBasicAuthMode-name = HTTPS Basic Authentication
+git-integration-opt-httpsPACAuthMode-name = Personal Access Token Authentication
+git-integration-opt-httpsOAuth2AuthMode-name = OAuth2 Authentication
+git-integration-opt-username-name = username
+git-integration-opt-auth-name = authentication
+git-integration-opt-auth-desc = password / token / OAuth2

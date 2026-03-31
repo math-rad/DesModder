@@ -60,7 +60,7 @@ const categoryPlugins: Record<string, PluginID[]> = {
     "quake-pro",
     "scroll-beyond",
   ],
-  integrations: ["wakatime"],
+  integrations: ["wakatime", "git-integration"],
 };
 
 const categories = ["core", "utility", "visual", "integrations"];

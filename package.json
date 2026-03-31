@@ -94,6 +94,7 @@
     "@lezer/lr": "^1.4.0",
     "client-zip": "^2.4.4",
     "idb": "^8.0.0",
+    "isomorphic-git": "^1.37.4",
     "js-tokens": "^9.0.0",
     "moo": "^0.5.2",
     "string-width": "^5.1.2"
